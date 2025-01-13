@@ -1,4 +1,4 @@
-package Problems;
+package Lecture_7_Array_ArrayList;
 // https://leetcode.com/problems/add-minimum-number-of-rungs/
 public class AddMinimumNumberofRungs {
     public static void main(String[] args) {

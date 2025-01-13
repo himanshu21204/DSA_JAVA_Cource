@@ -1,4 +1,4 @@
-package Problems;
+package Tree;
 // https://leetcode.com/problems/balanced-binary-tree/description/
 public class BalancedBT {
     public class TreeNode {

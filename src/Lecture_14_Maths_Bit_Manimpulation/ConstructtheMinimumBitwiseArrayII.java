@@ -1,4 +1,4 @@
-package Problems;
+package Lecture_14_Maths_Bit_Manimpulation;
 
 import java.util.ArrayList;
 import java.util.Arrays;

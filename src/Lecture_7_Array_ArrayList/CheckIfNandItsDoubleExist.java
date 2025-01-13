@@ -1,4 +1,4 @@
-package Problems;
+package Lecture_7_Array_ArrayList;
 
 import java.util.HashMap;
 

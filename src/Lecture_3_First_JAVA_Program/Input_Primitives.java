@@ -7,6 +7,7 @@ public class Input_Primitives {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         System.out.println("Entered Number is :" + num);
+        System.out.println(sc.hasNext());
     }
 }
 // int num = 10;

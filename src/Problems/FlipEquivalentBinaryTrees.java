@@ -1,5 +1,8 @@
 package Problems;
- // https://leetcode.com/problems/flip-equivalent-binary-trees/
+
+import Tree.TreeNode;
+
+// https://leetcode.com/problems/flip-equivalent-binary-trees/
 public class FlipEquivalentBinaryTrees {
     public boolean flipEquiv(TreeNode x, TreeNode y) {
         if(x==null && y==null) return true;

@@ -11,7 +11,7 @@ public class ArrayList_Examples {
         list.add(30);
         list.add(40);
 
-        System.out.println(list.contains(20)); //list.contains(element) this method check if given element present in array than that return true else false
+        System.out.println(list.contains(20)); //list.contains(element) this method check if given element present in array then that return true else false
         list.set(2,50); // This Method is Update Given index given Element (list.set(index,element))
         list.remove(2); //remove element from given index (list.remove(index))
 //        list.clear(); this remove all Element

@@ -11,7 +11,7 @@ public class Primitives {
         boolean check = true;
     }
 }
-//Primitive Data Type Means Further Data Ty[pe Cannot Divide into Any Other Data Type (Like int to Char This is not Possible)
+//Primitive Data Type Means Further Data Type Cannot Divide into Any Other Data Type (Like int to Char This is not Possible)
 //String is Not Primitive Data Type Because That Can Convert int Character Data Type(like "Hello" => "H","e","l","l","o")
 // Data Type int is Use to Store Integer Value
 // To data Type Integer You Want To Write (233,999,000) This is Not Work in java To Write This use comma to _ (233_999_000) <= This is Work
